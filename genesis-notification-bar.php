@@ -1,7 +1,7 @@
 <?php
 /*
    Plugin Name: Genesis Notification Bar
-   Plugin URI: http://wordpress.org/extend/plugins/genesis-notification-bar/
+   Plugin URI: https://github.com/loudivers/genesis-notification-bar
    Version: 0.1
    Author: Lou Divers
    Description: Notification bar for Genesis framework
